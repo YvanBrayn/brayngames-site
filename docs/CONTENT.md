@@ -5,7 +5,7 @@ Leitura do site, rascunho. Primeiro modifica aqui depois no HTML.
 
 ## Título
 
-BAYNGANES
+BRAYNGAMES
 
 ## Subtítulo
 
@@ -41,7 +41,7 @@ banner-diggingquest.png
 
 #### Descrição
 
-Explore cavernas...
+Explore cavernas, derrote monstros, encontre tesouros subterrâneos...
 
 #### Botão
 
@@ -65,7 +65,7 @@ banner-archaeologydeckbuilder.png
 
 #### Descrição
 
-Descobra tesouros...
+Escave, explore, colecione artefatos raros...
 
 #### Botão
 
